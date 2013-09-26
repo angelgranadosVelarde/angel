@@ -1,4 +1,4 @@
-nombre: Angel
-edad: 25
-carrera: ing tec informatica gestion
-ocio: cine, leer
+<nombre>Angel</nombre>
+<edad>25</edad>
+<carrera>ing tec informatica getsion</carrera>
+<ocio>cine, leer</ocio>
